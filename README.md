@@ -31,15 +31,11 @@ chmod +x misDockersEstanVivos.sh
 🧪 Usage
 Run the script:
 
-bash
-Copiar
-Editar
+
 ./misDockersEstanVivos.sh
 Example output:
 
-yaml
-Copiar
-Editar
+
 🟢 Container: ollama, Ports: 0.0.0.0:11434->11434/tcp, URL: http://localhost:11434
 🟢 Container: n8n, Ports: 0.0.0.0:5678->5678/tcp, URL: http://localhost:5678
 Output Explained
